@@ -8,5 +8,4 @@ class One():
         return self.age
 
 if __name__ =='__main__':
-    one = One('sam', 45)
     print(one.get_name())
