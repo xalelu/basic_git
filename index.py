@@ -8,4 +8,3 @@ class One():
         return self.age
 
 class two():
-if __name__ =='__main__':
