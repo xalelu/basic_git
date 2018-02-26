@@ -9,7 +9,6 @@ class One():
 
 
 class two():
-if __name__ =='__main__':    def __init__(self):
         self.name = 'two'
 
 
