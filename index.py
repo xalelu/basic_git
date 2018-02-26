@@ -9,6 +9,7 @@ class One():
 
 
 class two():
+    def __init__(self):
         self.name = 'two'
 
 
