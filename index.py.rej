@@ -1,0 +1,9 @@
+diff a/index.py b/index.py	(rejected hunks)
+@@ -7,4 +7,5 @@
+     def get_age(self):
+         return self.age
+ 
+-if __name__ =='__main__':
++class two():
++if __name__ =='__main__':
+\ No newline at end of file
